@@ -1,3 +1,5 @@
+富文本编辑器
+
 # CKEditor 5 rich text editor component for Vue.js 3+
 
 [![npm version](https://badge.fury.io/js/%40ckeditor%2Fckeditor5-vue.svg)](https://www.npmjs.com/package/@ckeditor/ckeditor5-vue)
